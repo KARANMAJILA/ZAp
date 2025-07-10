@@ -1,6 +1,6 @@
 # ZapPay 
 
-This project is a full-stack digital payments application inspired by PayTM and based on the ZapPay open-source project. It features:
+This project is a full-stack digital payments application. It features:
 
 - **Frontend:** Vite + React
 - **Backend:** Node.js + Express + MongoDB
