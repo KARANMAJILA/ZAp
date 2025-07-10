@@ -1,4 +1,4 @@
-# ZapPay Replica
+# ZapPay 
 
 This project is a full-stack digital payments application inspired by PayTM and based on the ZapPay open-source project. It features:
 
